@@ -1,0 +1,25 @@
+{
+  "name": "admin_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.7",
+    "webpack": "^4.39.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanweijing1997/admin_system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanweijing1997/admin_system/issues"
+  },
+  "homepage": "https://github.com/hanweijing1997/admin_system#readme"
+}
